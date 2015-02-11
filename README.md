@@ -1,1 +1,1 @@
-# My Lineman Application
+# Lineman Angular Template using ngClassify
